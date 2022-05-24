@@ -1,6 +1,6 @@
 # Formal Languages and Automata Theory
 This repo contains the coursework for UCLA's CS 181 course taught in Spring 2019.   
-It continues to covers the following concepts: 
+It covers the following concepts: 
 * Grammars, automata, and languages
 * Finite-state languages and finite-state automata
 * Context-free languages and pushdown story automata
